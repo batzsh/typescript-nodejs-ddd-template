@@ -9,7 +9,7 @@
     "paths": {
       "@config/*": ["src/config/*"],
       "@docs/*": ["src/docs/*"],
-      "@tests/*": ["src/tests/*"],
+      "@tests/*": ["tests/*"],
       "@application/*": ["src/application/*"],
       "@domains/*": ["src/domains/*"],
       "@infra/*": ["src/infra/*"]
