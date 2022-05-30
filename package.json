@@ -10,6 +10,7 @@
     "dev": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only --ignore-watch node_modules --respawn src/application/server.ts",
     "test": "jest --runInBand",
     "lint": "eslint ./src/**/*.*",
+    "prepare": "husky install",
     "commit": "cz",
     "release": "standard-version"
   },
