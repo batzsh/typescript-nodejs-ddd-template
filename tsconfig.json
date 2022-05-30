@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@config/*": ["src/config/*"],
-      "@docs/*": ["docs/*"],
-      "@tests/*": ["tests/*"],
+      "@docs/*": ["src/docs/*"],
+      "@tests/*": ["src/tests/*"],
       "@application/*": ["src/application/*"],
       "@domains/*": ["src/domains/*"],
       "@infra/*": ["src/infra/*"]
