@@ -1,6 +1,6 @@
 {
-  "name": "ts-node-clean-arch-ddd-template",
-  "version": "0.3.0",
+  "name": "typescript-nodejs-ddd-template",
+  "version": "1.0.0",
   "main": "index.js",
   "author": "Henrique Balmant <henrique.balmant@gmail.com>",
   "license": "MIT",
