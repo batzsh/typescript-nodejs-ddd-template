@@ -22,8 +22,6 @@ wasting time configurating and setting up folders & files.
 It may has some specific folders and definitions that you won't use or will
 prefer to use other ways: **feel free to do so**.
 
-Status: 🚀 Done 🚀
-
 [Getting started](#-getting-started) •
 [Features](#-features) •
 [Packages](#-packages) •
